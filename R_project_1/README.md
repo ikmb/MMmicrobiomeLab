@@ -1,39 +1,64 @@
-# R_project_1
+# Title of your code or analysis
 
-Welcome to ProjectTemplate!
+Provide a concise and informative title for your code or analysis that
+accurately reflects its content.
 
-This file introduces you to ProjectTemplate, but you should eventually replace
-the contents of this file with an introduction to your project. People who
-work with your data in the future will thank you for it, including your future
-self.
+## Introduction
 
-ProjectTemplate is an R package that helps you organize your statistical
-analysis projects. Since you're reading this file, we'll assume that you've
-already called `create.project()` to set up this project and all of its
-contents.
+In this section, provide an overview of your code and describe the
+project in which the code was developed. Highlight the purpose,
+scope, and potential uses of your code. Also, consider including
+links to relevant publications or resources that provide additional
+context.
 
-To load your new project, you'll first need to `setwd()` into the directory
-where this README file is located. Then you need to run the following two
-lines of R code:
+## Prerequisites
 
-	library('ProjectTemplate')
-	load.project()
+Include any necessary prerequisites for using your code, such as
+required datasets, specific software, dependencies or hardware
+requirements. For example: This project requires Python 3.8 or later
+and install the dependencies with `pip install -r
+requirements.txt`. 
 
-After you enter the second line of code, you'll see a series of automated
-messages as ProjectTemplate goes about doing its work. This work involves:
-* Reading in the global configuration file contained in `config`.
-* Loading any R packages you listed in the configuration file.
-* Reading in any datasets stored in `data` or `cache`.
-* Preprocessing your data using the files in the `munge` directory.
+## Contents 
 
-Once that's done, you can execute any code you'd like. For every analysis
-you create, we'd recommend putting a separate file in the `src` directory.
-If the files start with the two lines mentioned above:
+### Folder structure
 
-	library('ProjectTemplate')
-	load.project()
+Describe the organization of your package, including the contents of
+each folder and the files it contains. Use tables or file trees to
+make it easy for users to understand your folder structure. Describe
+where results and figures are stored if not added to the project
+folder.
 
-You'll have access to all of your data, already fully preprocessed, and
-all of the libraries you want to use.
+### File formats 
 
-For more details about ProjectTemplate, see http://projecttemplate.net
+Describe the file format(s) used in your project and the software
+required to open them. 
+
+## Usage
+
+Provide clear and concise instructions on how to use your code.
+Include examples of how to execute the code and describe the expected
+output. If your work consists of multiple execution steps, provide
+detailed step-by-step instructions. 
+
+## License
+
+With an open-source license, you grant permission to use your work.
+The most common open-source licenses are MIT, GPL3, and Apache 2.0.
+Choose a license that aligns with your goals for your code.
+
+For example:
+
+> This work is licensed under the MIT License.
+
+## Citation (optional)
+
+Provide clear instructions on how to cite your code or related
+publications in a research paper or publication. You can include the
+citation in the README file or create a separate CITATION.cff file. 
+
+## Contact 
+
+Include contact information for questions or comments about your code.
+You can also provide clear instructions for how users can provide
+feedback, contribute, or suggest improvements to your work. 
