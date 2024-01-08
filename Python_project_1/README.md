@@ -1,55 +1,64 @@
-project_name
-==============================
+# Title of your code or analysis
 
-description
+Provide a concise and informative title for your code or analysis that
+accurately reflects its content.
 
-Project Organization
-------------
+## Introduction
 
-    ├── LICENSE
-    ├── Makefile           <- Makefile with commands like `make data` or `make train`
-    ├── README.md          <- The top-level README for developers using this project.
-    ├── data
-    │   ├── external       <- Data from third party sources.
-    │   ├── interim        <- Intermediate data that has been transformed.
-    │   ├── processed      <- The final, canonical data sets for modeling.
-    │   └── raw            <- The original, immutable data dump.
-    │
-    ├── docs               <- A default Sphinx project; see sphinx-doc.org for details
-    │
-    ├── models             <- Trained and serialized models, model predictions, or model summaries
-    │
-    ├── notebooks          <- Jupyter notebooks. Naming convention is a number (for ordering),
-    │                         the creator's initials, and a short `-` delimited description, e.g.
-    │                         `1.0-jqp-initial-data-exploration`.
-    │
-    ├── references         <- Data dictionaries, manuals, and all other explanatory materials.
-    │
-    ├── reports            <- Generated analysis as HTML, PDF, LaTeX, etc.
-    │   └── figures        <- Generated graphics and figures to be used in reporting
-    │
-    ├── requirements.txt   <- The requirements file for reproducing the analysis environment, e.g.
-    │                         generated with `pip freeze > requirements.txt`
-    │
-    ├── setup.py           <- makes project pip installable (pip install -e .) so src can be imported
-    ├── src                <- Source code for use in this project.
-    │   ├── __init__.py    <- Makes src a Python module
-    │   │
-    │   ├── data           <- Scripts to download or generate data
-    │   │   └── make_dataset.py
-    │   │
-    │   ├── features       <- Scripts to turn raw data into features for modeling
-    │   │   └── build_features.py
-    │   │
-    │   ├── models         <- Scripts to train models and then use trained models to make
-    │   │   │                 predictions
-    │   │   ├── predict_model.py
-    │   │   └── train_model.py
-    │   │
-    │   └── visualization  <- Scripts to create exploratory and results oriented visualizations
-    │       └── visualize.py
-    │
-    └── tox.ini            <- tox file with settings for running tox; see tox.readthedocs.io
+In this section, provide an overview of your code and describe the
+project in which the code was developed. Highlight the purpose,
+scope, and potential uses of your code. Also, consider including
+links to relevant publications or resources that provide additional
+context.
 
+## Prerequisites
 
---------
+Include any necessary prerequisites for using your code, such as
+required datasets, specific software, dependencies or hardware
+requirements. For example: This project requires Python 3.8 or later
+and install the dependencies with `pip install -r
+requirements.txt`. 
+
+## Contents 
+
+### Folder structure
+
+Describe the organization of your package, including the contents of
+each folder and the files it contains. Use tables or file trees to
+make it easy for users to understand your folder structure. Describe
+where results and figures are stored if not added to the project
+folder.
+
+### File formats 
+
+Describe the file format(s) used in your project and the software
+required to open them. 
+
+## Usage
+
+Provide clear and concise instructions on how to use your code.
+Include examples of how to execute the code and describe the expected
+output. If your work consists of multiple execution steps, provide
+detailed step-by-step instructions. 
+
+## License
+
+With an open-source license, you grant permission to use your work.
+The most common open-source licenses are MIT, GPL3, and Apache 2.0.
+Choose a license that aligns with your goals for your code.
+
+For example:
+
+> This work is licensed under the MIT License.
+
+## Citation (optional)
+
+Provide clear instructions on how to cite your code or related
+publications in a research paper or publication. You can include the
+citation in the README file or create a separate CITATION.cff file. 
+
+## Contact 
+
+Include contact information for questions or comments about your code.
+You can also provide clear instructions for how users can provide
+feedback, contribute, or suggest improvements to your work. 
