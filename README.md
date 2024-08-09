@@ -18,7 +18,7 @@ Our key research areas are.
 - **Origin, Evolution, and Mechanism of Cholesterol Metabolism by the Human Gut Microbiome:** Exploring a novel approach, we investigate ways to modulate the gut microbiome to reduce blood cholesterol levels through microbial degradation of intestinal cholesterol.
 - **Primary Sclerosing Cholangitis and the Gut Microbiome:** Our goal is to identify biological markers and explore the contribution of the gut-liver axis to the pathogenesis of Primary Sclerosing Cholangitis (PSC).
 
-## Newcomer?
+## Newcomer
 
 If you are a new comer, make sure you go through our [new comer](setup)(ADD link to onboarding).
 
