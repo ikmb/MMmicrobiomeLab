@@ -4,7 +4,9 @@ We are two research groups centered on exploring the dynamics of bacterial genom
 
 Our primary objective is to gain a functional understanding of host-microbe systems. We specifically concentrate on assembling and characterizing an extensive collection of human gut microbiomes and bacterial strains in pure culture from diverse global populations. To achieve this, we employ in silico, in vitro, and in vivo approaches to identify actionable features within host-associated microbiomes that can contribute to enhancing human health.
 
+
 ## Key Research Areas
+
 - **Global Microbiome Conservancy:** Professors Poyet and Groussin established the Global Microbiome Conservancy (GMbC) in 2016, an international non-profit initiative dedicated to advancing microbiome science equitably and ethically.
 - **Synthetic Bacterial Communities as Therapeutics for Gastrointestinal Disorders:** We employ a rational design approach to develop microbiota-based intervention strategies aimed at modulating the diversity, composition, and function of perturbed microbiomes, particularly for gastrointestinal disorders.
 - **Evolution of IgA-Bacteria Interactions:** Our research explores the association between host lifestyle, microbiome compositions, and interactions between IgA antibodies and bacteria within the human metaorganism.
@@ -13,6 +15,12 @@ Our primary objective is to gain a functional understanding of host-microbe syst
 - **Multiomics Investigations of Microbiomes:** Our research involves employing multiomics approaches to comprehensively study microbiomes, providing a holistic understanding of their compositions and functions.
 - **Origin, Evolution, and Mechanism of Cholesterol Metabolism by the Human Gut Microbiome:** Exploring a novel approach, we investigate ways to modulate the gut microbiome to reduce blood cholesterol levels through microbial degradation of intestinal cholesterol.
 - **Primary Sclerosing Cholangitis and the Gut Microbiome:** Our goal is to identify biological markers and explore the contribution of the gut-liver axis to the pathogenesis of Primary Sclerosing Cholangitis (PSC).
+
+## Newcomer
+
+If you are a new to the lab, make sure you go through our [onboarding page](https://github.com/ikmb/mmLab_newcomer).
+
+
 
 ## Publications
 1. Zhao, S.; Lieberman, T.D.; Poyet, M.; Kauffman, K.M.; Gibbons, S.M.; Groussin, M.; Xavier, R.J.;
