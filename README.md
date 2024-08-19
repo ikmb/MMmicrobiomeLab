@@ -7,8 +7,6 @@ Our primary objective is to gain a functional understanding of host-microbe syst
 
 ## Key Research Areas
 
-Our key research areas are:
-
 - **Global Microbiome Conservancy:** Professors Poyet and Groussin established the Global Microbiome Conservancy (GMbC) in 2016, an international non-profit initiative dedicated to advancing microbiome science equitably and ethically.
 - **Synthetic Bacterial Communities as Therapeutics for Gastrointestinal Disorders:** We employ a rational design approach to develop microbiota-based intervention strategies aimed at modulating the diversity, composition, and function of perturbed microbiomes, particularly for gastrointestinal disorders.
 - **Evolution of IgA-Bacteria Interactions:** Our research explores the association between host lifestyle, microbiome compositions, and interactions between IgA antibodies and bacteria within the human metaorganism.
@@ -20,7 +18,7 @@ Our key research areas are:
 
 ## Newcomer
 
-If you are a new to the lab, make sure you go through our [onboarding page]([setup](https://github.com/ikmb/mmLab_newcomer)).
+If you are a new to the lab, make sure you go through our [onboarding page](https://github.com/ikmb/mmLab_newcomer).
 
 
 ## Publications
