@@ -20,11 +20,7 @@ Our key research areas are:
 
 ## Newcomer
 
-If you are a new comer, make sure you go through our [new comer](setup)(ADD link to onboarding).
-
-## Coding guidelines
-
-To be done.
+If you are a new to the lab, make sure you go through our [onboarding page]([setup](https://github.com/ikmb/mmLab_newcomer)).
 
 
 ## Publications
